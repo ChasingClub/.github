@@ -26,7 +26,7 @@ If the player with full netherite gear dies, they lose.
 
 # Kit Command
 
-![kit](https://github.com/NetheriteGame/.github/blob/main/profile/Kit%20Command%20Overview.gif)
+![kit](https://github.com/NetheriteGame/.github/blob/main/profile/Kit_Overview.gif)
 
 ### IDE
 
