@@ -24,6 +24,9 @@ If the player with full netherite gear dies, they lose.
 2. RichterYT **(Server Admin)** - __*Game Developer, Builder, Datapack Builder*__
 3. ItDragClick **(Server Admin)** - __*Game Developer, Plugin Developer, Builder*__
 
+# Kit Command
+
+![kit](https://github.com/NetheriteGame/.github/blob/main/profile/Kit%20Command%20Overview.gif)
 
 ### IDE
 
