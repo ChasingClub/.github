@@ -10,14 +10,6 @@ A minigame where players have to find 4 keys, while running away from the Warden
 A shield PvP minigame, where whenever a player gets killed, that player will receive a piece of netherite armors/weapons.
 If the player with full netherite gear dies, they lose.
 
-## Plugin Source Code
-
-**__[Here!](https://github.com/NetheriteGame/Netherite-Game/tree/main/dev/src/main)__**
-
-### Server IP: **Pinont.minehut.gg**
-
-**Server Version**: **1.8** - **1.19**
-
 ## Server Admin List
 
 1. Pinont_ **(Server Owner)** - __*Plugin Developer, Builder*__
