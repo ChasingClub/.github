@@ -23,3 +23,4 @@ If the player with full netherite gear dies, they lose.
 ### IDE
 
 ![Intelli](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![size](https://badge-size.herokuapp.com/NetheriteGame/Netherite-Game/main/dev)
