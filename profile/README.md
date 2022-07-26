@@ -8,7 +8,7 @@ A minigame where players have to find 4 keys, while running away from the Warden
 # What is Netherite Stack?
 
 A shield PvP minigame, where whenever a player gets killed, that player will receive a piece of netherite armors/weapons.
-If the player with full netherite gear dies, they lose.
+If the player died with full netherite set they lose.
 
 ## Server Admin List
 
