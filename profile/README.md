@@ -23,7 +23,7 @@ Spaceball is a game where the players are shooting in space. Players will be sep
 Paintball is a game where 2 teams are trying their best to cover the area with their team color, meanwhile killing the other team.
 
 ## Bedwars
-Bedwars is a game where 
+Bedwars is a game where players are seperate into a team. Players must defend their bed, if the bed is destroyed, player on that team will not respawn. Last team standing win.
 
 # **SERVER OWNER**
 ## Pinont_
