@@ -15,15 +15,15 @@ ChasingClub is a 1.18.x-1.19.x server which aim to provide players with the most
 
 # **SERVER OWNER**
 ## Pinont_
-### Server Provider
-### Plugin Developer
-### Music Composter
+- Server Provider
+- Plugin Developer
+- Music Composter
 
 ## RichterYT
-### Builder
-### Game Concept
-### Resourcepack Artist
+- Builder
+- Game Concep
+- Resourcepack Artist
 
 ## ItDragClick
-### Plugin Developer
-### Game Concept (Bedwars)
+- Plugin Developer
+- Game Concept (Bedwars)
