@@ -6,10 +6,12 @@ ChasingClub is a 1.18.x-1.19.x server which aim to provide players with the most
 
 # **CLOSED BETA APPILCATION**
 ChasingClub is currently whitelisted, to participate in the beta program please apply with the link below
+https://docs.google.com/forms/d/1iVsfp6a0rt40I5qCC_9giQwN9gHxY0ZqlEJN1zeoRu4/edit?ts=62fa63f2
 
 
 # **GAME LIST**
 ## Netherite Stack
+Netherite Stack is a sub-minigame in duel gamemode. 2 player will be fighting in an arena. Once a player died that player will be respawn with a piece of netherite item. If a player have full netherite set and died, that player will lost the game.
 
 ## Warden Chase
 Warden Chase is a game where a group of player must find a way out of a cave. But to escape, player must find 4 keys while fighting mob and try their best to avoid the warden.
@@ -19,8 +21,9 @@ Spaceball is a game where the players are shooting in space. Players will be sep
 
 ## Paintball
 Paintball is a game where 2 teams are trying their best to cover the area with their team color, meanwhile killing the other team.
-## Bedwars
 
+## Bedwars
+Bedwars is a game where 
 
 # **SERVER OWNER**
 ## Pinont_
@@ -30,7 +33,7 @@ Paintball is a game where 2 teams are trying their best to cover the area with t
 
 ## RichterYT
 - Builder
-- Game Concep
+- Game Concept
 - Resourcepack Artist
 
 ## ItDragClick
