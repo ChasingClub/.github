@@ -1,26 +1,29 @@
-# **Netherite-Game**
-Minecraft 1.19 PVP server that includes unique minigames such as Warden Chase, Netherite Stack, and many more coming soon.
+# **JOIN NOW**
+mc.pinont.ml
 
-# What is Warden Chase?
+# **ABOUT**
+ChasingClub is a 1.18.x-1.19.x server which aim to provide players with the most unique minigame never seen before minigame.
 
-A minigame where players have to find 4 keys, while running away from the Warden.
 
-# What is Netherite Stack?
+# **GAME LIST**
+## Netherite Stack
+## Warden Chase
+## Spaceball
+## Paintball
+## Bedwars
 
-A shield PvP minigame, where whenever a player gets killed, that player will receive a piece of netherite armors/weapons.
-If the player died with full netherite set they lose.
 
-## Server Admin List
+# **SERVER OWNER**
+## Pinont_
+### Server Provider
+### Plugin Developer
+### Music Composter
 
-1. Pinont_ **(Server Owner)** - __*Plugin Developer, Builder*__
-2. RichterYT **(Server Admin)** - __*Game Developer, Builder, Datapack Builder*__
-3. ItDragClick **(Server Admin)** - __*Game Developer, Plugin Developer, Builder*__
+## RichterYT
+### Builder
+### Game Concept
+### Resourcepack Artist
 
-# Kit Command
-
-![kit](https://github.com/NetheriteGame/.github/blob/main/profile/Kit_Overview.gif)
-
-### IDE
-
-![Intelli](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
+## ItDragClick
+### Plugin Developer
+### Game Concept (Bedwars)
