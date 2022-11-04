@@ -1,4 +1,5 @@
 # **ABOUT**
+[![Build Status](https://github.com/ChasingClub/Core/actions/workflows/maven.yml/badge.svg)](https://github.com/ChasingClub/Core/actions/workflows/maven.yml)
 ChasingClub is a 1.18.x-1.19.x server which aim to provide players with the most unique minigame.
 
 # **CLOSED BETA APPILCATION**
