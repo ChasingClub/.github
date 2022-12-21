@@ -38,4 +38,4 @@ Team raiding game. Players will be separated into 4 teams, Be the last standing 
 
 ## ItDragClick
 - Plugin Developer
-- Game Concept (Bedwars)
+- Game Concept (ClubFight)
